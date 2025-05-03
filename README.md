@@ -1,2 +1,2 @@
 # Actividad2
-Este repositorio corresponde a la actividad 2
+Esta linea la he agregado, Este repositorio corresponde a la actividad 2
